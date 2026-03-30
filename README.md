@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on git platform and other open source projects
 - 📫 How to reach me my git profile
 - 😄 Pronouns: ...he?him
-- ⚡ Fun fact: ...Im noob programmer with three years experience in programming
+- ⚡ 
 
 <!---
 Joshuanoc/Joshuanoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
